@@ -1,0 +1,8 @@
+本地更新时间: 2025-12-20 10:23:03
+最新 OTA 版本: PHK110_11.F.47_2470_202511061312
+版本名称: PHK110_15.0.0.870(CN01)
+Android 版本: Android 15
+ColorOS 版本: PHK110_15.0.0.870(CN01)
+安全补丁: 2025-11-01
+ROM 下载链接: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-db8f60de7c551205b6604621ce89965a/component-ota/25/11/06/a33189032d2c4f0a9637109c5a9bbbff.zip
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-db8f60de7c551205b6604621ce89965a/component-ota/25/11/28/05bb1b3c941040c687b13115e84f70fe.html

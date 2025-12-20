@@ -1,0 +1,8 @@
+本地更新时间: 2025-12-20 10:22:43
+最新 OTA 版本: PJX110_11.C.39_1390_202510112122
+版本名称: PJX110_15.0.0.861(CN01)
+Android 版本: Android 15
+ColorOS 版本: PJX110_15.0.0.861(CN01)
+安全补丁: 2025-10-01
+ROM 下载链接: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d800116f158f69457e30674195e01887/component-ota/25/10/13/1648a6b3e4054affb8dcbbb57fbee424.zip
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-d800116f158f69457e30674195e01887/component-ota/25/11/05/120c190c673a4f5fb265df42557858b8.html
