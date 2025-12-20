@@ -1,0 +1,8 @@
+本地更新时间: 2025-12-20 10:23:16
+最新 OTA 版本: PHP110_11.F.29_2290_202510211728
+版本名称: PHP110_15.0.0.1301(CN01)
+Android 版本: Android 15
+ColorOS 版本: PHP110_15.0.0.1301(CN01)
+安全补丁: 2025-10-01
+ROM 下载链接: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3262361f25cb40c81645621d2cac451f/component-ota/25/10/23/9472c30c76fa433bb8fb8f03cab347bf.zip
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-3262361f25cb40c81645621d2cac451f/component-ota/25/11/12/077e44a84c3a4bf68b30ddff9ba87f75.html

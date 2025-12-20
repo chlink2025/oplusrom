@@ -1,0 +1,8 @@
+本地更新时间: 2025-12-20 10:23:10
+最新 OTA 版本: PJA110_11.F.39_2390_202511052253
+版本名称: PJA110_15.0.0.861(CN01)
+Android 版本: Android 15
+ColorOS 版本: PJA110_15.0.0.861(CN01)
+安全补丁: 2025-11-01
+ROM 下载链接: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-075bad087009d9154e3b1f709f61e354/component-ota/25/11/07/cbd86274abbd4cb5b352830460bca546.zip
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-075bad087009d9154e3b1f709f61e354/component-ota/25/11/26/4cb6c09b9d924a69ba57bdaff9d7c84f.html
