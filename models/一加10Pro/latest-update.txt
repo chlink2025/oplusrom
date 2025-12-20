@@ -1,0 +1,8 @@
+本地更新时间: 2025-12-20 21:07:18
+最新 OTA 版本: NE2210_11.H.87_3870_202508291254
+版本名称: NE2210_15.0.0.1202(CN01)
+Android 版本: Android 15
+ColorOS 版本: NE2210_15.0.0.1202(CN01)
+安全补丁: 2025-08-01
+ROM 下载链接: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b5b6509695db7178add46351dd77d760/component-ota/25/09/01/c5e643b80fa74e5190dfb2ed9e92369e.zip
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-b5b6509695db7178add46351dd77d760/component-ota/25/09/22/ade1dd76062f43089ed91a107817d55b.html
