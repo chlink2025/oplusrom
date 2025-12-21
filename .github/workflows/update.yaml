@@ -2,8 +2,7 @@ name: Daily OTA Update
 
 on:
   schedule:
-    # 每天 UTC 00:00 运行（北京时间 08:00）
-    - cron: '0 0 * * *'
+    - cron: '0 */12 * * *'
   workflow_dispatch:  # 支持手动触发
 
 jobs:
