@@ -1,0 +1,2 @@
+https://component-ota-cn.allawntech.com/downloadCheck?c=14dba344cb0adbe2880fccb1ef42aff9&p=a6c78cdd3657888b38ce89fc4b9e3862c672f9b31b6f54fe8ded03be932e54c7edba318ee6296627eb3ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6948e3159e207b017baa886a&taste=0&supportDLTaste=0&mode=1&s=a337fca3784d82d6b591cb05ff708b51
+//下载此链接请在请求头中加入名字为userid内容为oplus-ota|的请求头
