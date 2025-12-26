@@ -1,0 +1,8 @@
+本地更新时间: 2025-12-26 23:58:36
+最新 OTA 版本: PGKM10_11.H.19_3190_202511271818
+版本名称: PGKM10_15.0.0.1601(CN01)
+Android 版本: Android 15
+ColorOS 版本: PGKM10_15.0.0.1601(CN01)
+安全补丁: 2025-12-01
+ROM 下载链接: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-5c6e4d7820563819d52533ae3f4d78e4/component-ota/25/12/02/e4213e792a104bb3abd63f77f284638e.zip
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-5c6e4d7820563819d52533ae3f4d78e4/component-ota/25/12/17/7d054cadcfc1499a96f6bac0b4c87d09.html
