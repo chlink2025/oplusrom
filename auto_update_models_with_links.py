@@ -52,7 +52,7 @@ def parse_updater_output(raw_output):
             manual_url = packets.get("manualUrl", "")
             if manual_url:
                 comp_name = comp.get("componentName", "")
-                if comp_name == "my_stock":
+                if comp_name == "my_manifest":
                     rom_link = manual_url
                     break
                 if rom_link == "无":
