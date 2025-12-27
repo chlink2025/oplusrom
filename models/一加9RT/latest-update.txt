@@ -1,0 +1,9 @@
+本地更新时间: 2025-12-27 02:55:07
+最新 OTA 版本: MT2110_11.A.14_0140_202206070325
+版本名称: MT2110_11_A.14
+Android 版本: Android 11
+ColorOS 版本: ColorOS 12
+安全补丁: 2022-06-05
+发布时间: 2022/06/23 08:36:49
+ROM 下载链接: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-681c83511de7c7a0a8d99d4609db9ecb/component-ota/22/06/07/1ad9ccdf77be4945a3d5aafbf0f69789.zip
+更新日志链接: 无
