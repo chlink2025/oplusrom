@@ -34,6 +34,9 @@ jobs:
       - name: Run OTA update script
         run: |
           python auto_update_models_with_links.py
+          rm updater
+          mv updater-taste updater
+          python auto_update_models_with_links.py 
       - name: Check for changes
         id: changes
         run: |
