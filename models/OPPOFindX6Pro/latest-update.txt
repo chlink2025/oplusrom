@@ -1,9 +1,9 @@
-本地更新时间: 2025-12-27 07:58:01
-最新 OTA 版本: PGEM10_11.H.06_3060_202511201836
-版本名称: PGEM10_16.0.1.300(CN01)
+本地更新时间: 2026-01-01 10:02:02
+最新 OTA 版本: PGEM10_11.H.08_3080_202512241912
+版本名称: PGEM10_16.0.2.401(CN01)
 Android 版本: Android 16
-ColorOS 版本: PGEM10_16.0.1.300(CN01)
-安全补丁: 2025-11-01
-发布时间: 2025/12/22 13:49:25
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=a2763377d740429ca4395584d25f59c7&p=a6c78cdd3654888839ced8fb179637379275fbe3426754f087eb5ae9c32c51c3ebe937dce22e3976bc38d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=694947d9007ddc017e038d8f&taste=0&supportDLTaste=0&mode=1&s=c46ece02a2faffef60bf0f1c000f6594
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-a2763377d740429ca4395584d25f59c7/component-ota/25/12/22/ece024555b144a1c9679ec96c3d090ed.html
+ColorOS 版本: PGEM10_16.0.2.401(CN01)
+安全补丁: 2025-12-01
+发布时间: 2025/12/31 10:20:51
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=01deb7584f68a49b99d883fffcbeb80a&p=a6c78cdd365788883ccedeab17ce6037c621f8b4196154f581b95beec22900c7b8ba37d3e52a3523ef6ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6954edfd007ddc017e03a08e&taste=1&supportDLTaste=0&mode=1&s=0fdedc1c62b4f2984cbf0f4edde0696c
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-01deb7584f68a49b99d883fffcbeb80a/component-ota/25/12/31/f7b4ea9a22f44d4baa8248dbadb01565.html

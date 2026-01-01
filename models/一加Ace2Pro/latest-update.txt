@@ -1,8 +1,9 @@
-本地更新时间: 2025-12-20 10:23:10
-最新 OTA 版本: PJA110_11.F.39_2390_202511052253
-版本名称: PJA110_15.0.0.861(CN01)
-Android 版本: Android 15
-ColorOS 版本: PJA110_15.0.0.861(CN01)
-安全补丁: 2025-11-01
-ROM 下载链接: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-075bad087009d9154e3b1f709f61e354/component-ota/25/11/07/cbd86274abbd4cb5b352830460bca546.zip
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-075bad087009d9154e3b1f709f61e354/component-ota/25/11/26/4cb6c09b9d924a69ba57bdaff9d7c84f.html
+本地更新时间: 2026-01-01 10:02:23
+最新 OTA 版本: PJA110_11.H.09_3090_202512162156
+版本名称: PJA110_16.0.2.400(CN01)
+Android 版本: Android 16
+ColorOS 版本: PJA110_16.0.2.400(CN01)
+安全补丁: 2025-12-01
+发布时间: 2025/12/30 10:57:39
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=b702a15ee9380b43836b4318ab826be0&p=a6c78cdd3657888b3ecedefb419b326dc525fdb21f6554a287e803b1c52951c3ebbc30d9ee7d3524bb3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6953a385007ddc017e039dbc&taste=1&supportDLTaste=0&mode=1&s=27b01b809c2ee34408c6ae9927a2e849
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-b702a15ee9380b43836b4318ab826be0/component-ota/25/12/30/190c673aa40c437a8c6a5226b2215ee4.html
