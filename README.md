@@ -1,2 +1,3 @@
 links文件夹内是rom下载链接
 updater文件来自oplusupdater项目
+coloros16的链接需要加入请求头userid:oplus-ota| 才可以下载
