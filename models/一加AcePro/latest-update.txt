@@ -1,9 +1,9 @@
-本地更新时间: 2026-01-01 10:02:29
-最新 OTA 版本: PGP110_11.H.22_3220_202511251144
-版本名称: PGP110_15.0.0.1601(CN01)
+本地更新时间: 2026-01-12 12:28:57
+最新 OTA 版本: PGP110_11.H.23_3230_202512311444
+版本名称: PGP110_15.0.0.1602(CN01)
 Android 版本: Android 15
-ColorOS 版本: PGP110_15.0.0.1601(CN01)
-安全补丁: 2025-12-01
-发布时间: 2025/12/08 12:55:49
-ROM 下载链接: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-006008a4853acbfe4a193b826434bf9d/component-ota/25/11/25/72e3c694ee6c45a49fa64363e8acf229.zip
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-006008a4853acbfe4a193b826434bf9d/component-ota/25/12/08/e42a80f9e1ce4e8598baf4ffd332d544.html
+ColorOS 版本: PGP110_15.0.0.1602(CN01)
+安全补丁: 2026-01-01
+发布时间: 2026/01/12 11:29:36
+ROM 下载链接: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3216fe6a5fade9cfa40699c836c59b1a/component-ota/26/01/05/ffc1b611f8714843ab5c1afa334800df.zip
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-3216fe6a5fade9cfa40699c836c59b1a/component-ota/26/01/12/cec07a2ddc714649ae1bbae85231bbd3.html
