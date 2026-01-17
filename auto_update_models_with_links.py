@@ -13,7 +13,7 @@ ANSI_ESCAPE = re.compile(r'\x1B(?:[@-Z\\-_]|\[[0-?]*[ -/]*[@-~])')
 def strip_ansi_codes(text):
     return ANSI_ESCAPE.sub('', text)
 
-def run_updater(ota_version, region="CN", mode=0, proxy=None):
+def run_updater(ota_version, region="CN", mode="manual", proxy=None):
     cmd = ["./updater", ota_version, "--region", region, "--mode", str(mode)]
     if proxy:
         cmd += ["-p", proxy]
@@ -179,7 +179,7 @@ def main():
     parser.add_argument("root_dir", nargs="?", default="models", help="包含 ota-version.txt 的文件夹根目录")
     parser.add_argument("--links_dir", default="links", help="ROM 链接存储根目录")
     parser.add_argument("--region", default="CN")
-    parser.add_argument("--mode", type=int, default=0)
+    parser.add_argument("--mode", default="manual")
     parser.add_argument("-p", "--proxy", default=None)
 
     args = parser.parse_args()
