@@ -1,0 +1,9 @@
+本地更新时间: 2026-01-18 04:49:02
+最新 OTA 版本: PLU110_11.A.27_0270_202601050004
+版本名称: PLU110_16.0.2.407(CN01)
+Android 版本: Android 16
+ColorOS 版本: PLU110_16.0.2.407(CN01)
+安全补丁: 2025-12-01
+发布时间: 2026/01/09 23:47:13
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=beed236951b381be247630ee04c61269&p=a6c78fdd3754888a3cce88a643ce33369074fae61b3054f685ef5aea977905c7e3b664d8e42d6226eb3ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=69610fbc9e207b017baaab8b&taste=0&supportDLTaste=0&mode=1&s=2b857df235441aa5467547a6b1e9ee04
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-beed236951b381be247630ee04c61269/component-ota/26/01/09/29bcb5330b394e21b63a636a6c088116.html
