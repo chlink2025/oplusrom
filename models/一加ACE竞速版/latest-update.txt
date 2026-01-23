@@ -1,8 +1,9 @@
-本地更新时间: 2025-12-26 23:58:43
-最新 OTA 版本: PGZ110_11.H.16_3160_202510141822
-版本名称: PGZ110_15.0.0.1301(CN01)
+本地更新时间: 2026-01-23 01:03:21
+最新 OTA 版本: PGZ110_11.H.17_3170_202601122014
+版本名称: PGZ110_15.0.0.1600(CN01)
 Android 版本: Android 15
-ColorOS 版本: PGZ110_15.0.0.1301(CN01)
-安全补丁: 2025-10-01
-ROM 下载链接: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-69815e280dddcf5570493a0dd5fb5d9c/component-ota/25/10/21/4f0cfe2627804904905a7bbeba4a9a84.zip
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-69815e280dddcf5570493a0dd5fb5d9c/component-ota/25/11/17/26b3caefa5d04aa98cc27e7d7ad259d0.html
+ColorOS 版本: PGZ110_15.0.0.1600(CN01)
+安全补丁: 2026-01-01
+发布时间: 2026/01/22 13:36:13
+ROM 下载链接: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-e90f34ae9c268bab4c505962e6ce071a/component-ota/26/01/15/b9e24307e1084eb0adbdc9784b7da3e1.zip
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-e90f34ae9c268bab4c505962e6ce071a/component-ota/26/01/22/81132c26b990483381aaefed8f72fd33.html
