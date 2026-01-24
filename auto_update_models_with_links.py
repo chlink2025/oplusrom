@@ -149,9 +149,6 @@ def process_folder(folder_dir, links_root_dir, region, mode, proxy):
 
         with open(link_file, "w", encoding="utf-8") as f:
             f.write(info["romDownloadLink"] + "\n")
-            if "ColorOS 16" in info["colorOSVersion"]:
-                f.write("//下载此链接请在请求头中加入名字为userid内容为oplus-ota|的请求头\n")
-
         # 更新 latest-update.txt（内容更丰富，接近 App 显示）
         info_file = os.path.join(folder_dir, "latest-update.txt")
         with open(info_file, "w", encoding="utf-8") as f:
