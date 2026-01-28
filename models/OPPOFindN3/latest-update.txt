@@ -1,8 +1,9 @@
-本地更新时间: 2025-12-26 12:24:01
-最新 OTA 版本: PHN110_11.H.17_3170_202512141530
-版本名称: PHN110_16.0.2.400(CN01)
+本地更新时间: 2026-01-28 12:30:18
+最新 OTA 版本: PHN110_11.H.19_3190_202601210915
+版本名称: PHN110_16.0.3.501(CN01)
 Android 版本: Android 16
-ColorOS 版本: PHN110_16.0.2.400(CN01)
-安全补丁: 2025-12-01
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=c56cc71246af3ff03f891c57209e105f&p=a6c78cdd3657888b3cce89a9139f6332c471a9b21f6354a587b75ab8962154c6b8be3088e3783621ee3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=694e77cf9e207b017baa9442&taste=0&supportDLTaste=0&mode=1&s=8f8754194691536b1cdd22899cc0d466
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-c56cc71246af3ff03f891c57209e105f/component-ota/25/12/26/f6a3357ca04c41419bf69f2194fa57b3.html
+ColorOS 版本: PHN110_16.0.3.501(CN01)
+安全补丁: 2026-01-01
+发布时间: 2026/01/28 08:25:57
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=02fcb7e2c79786c92d88413fdc81f87b&p=a6c78fdd3754888838ced9ac40ca3260c274a8e2496654a4d1ea5abd93210393edbb65dfef713324b432d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=69708f3a9e207b017baac3e9&taste=1&supportDLTaste=0&mode=1&s=1fbcf1339b250ace9fec47ef0311d732
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-02fcb7e2c79786c92d88413fdc81f87b/component-ota/26/01/28/0ccbe8fb74c749a9ae0a9cb9f8b37b68.html
