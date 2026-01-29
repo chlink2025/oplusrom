@@ -1,9 +1,9 @@
-本地更新时间: 2026-01-01 10:02:05
-最新 OTA 版本: NE2210_11.H.88_3880_202510171156
-版本名称: NE2210_15.0.0.1301(CN01)
-Android 版本: Android 15
-ColorOS 版本: NE2210_15.0.0.1301(CN01)
-安全补丁: 2025-10-01
-发布时间: 2025/10/31 14:11:47
-ROM 下载链接: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3a93c647b43955ffd44715653bfc1a85/component-ota/25/10/20/a0dc7bb0fd714bd8bed29ccf27c3a602.zip
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-3a93c647b43955ffd44715653bfc1a85/component-ota/25/10/31/9a2adc712c7c459ca48c7b8de11b8de8.html
+本地更新时间: 2026-01-29 12:34:38
+最新 OTA 版本: NE2210_11.J.91_4910_202601172300
+版本名称: NE2210_16.0.3.500(CN01)
+Android 版本: Android 16
+ColorOS 版本: NE2210_16.0.3.500(CN01)
+安全补丁: 2026-01-01
+发布时间: 2026/01/29 03:51:37
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=7559b8849705769d3f10819ada98f6a9&p=a6c78fdd3754888b31cedeac449730669179fce1486154f3d4e85abe972d5892bbe96bd8b27f3723bc68d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=696cd0639e207b017baabd96&taste=1&supportDLTaste=0&mode=1&s=ffc4cc76f878eb737943bd7499e4cf2e
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-7559b8849705769d3f10819ada98f6a9/component-ota/26/01/28/296821bb020e44639b967dfeff15209d.html

@@ -1,9 +1,9 @@
-本地更新时间: 2026-01-01 10:02:31
-最新 OTA 版本: PJF110_11.F.12_2120_202512211156
-版本名称: PJF110_16.0.2.401(CN01)
+本地更新时间: 2026-01-29 12:35:04
+最新 OTA 版本: PJF110_11.F.13_2130_202601202108
+版本名称: PJF110_16.0.3.500(CN01)
 Android 版本: Android 16
-ColorOS 版本: PJF110_16.0.2.401(CN01)
-安全补丁: 2025-12-01
-发布时间: 2025/12/31 12:05:23
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=d592e9980ea0eac8ddea94c0595431e2&p=a6c78cdd3657888838ce8ffb179d33309174fde2186054a281eb5bbb922b5494eebd6ad2b27b6225ba6ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6954c4e59e207b017baa9b3e&taste=1&supportDLTaste=0&mode=1&s=d06b5ef28b644c5ba2a1583304b248bf
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-d592e9980ea0eac8ddea94c0595431e2/component-ota/25/12/31/90c3d4e2549a4db79af7224817d20390.html
+ColorOS 版本: PJF110_16.0.3.500(CN01)
+安全补丁: 2026-01-01
+发布时间: 2026/01/29 08:35:33
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=b7b71173e0788e742ce290a1b6f56a6c&p=a6c78fdd3754888838ced5f9179f3931c172f9e51f6054f2d6b700bdc52f5295ecec618fe47c3621b833d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=696fa75f9e207b017baac1c2&taste=1&supportDLTaste=0&mode=1&s=98548d8c356185a313a74d2699c992f6
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-b7b71173e0788e742ce290a1b6f56a6c/component-ota/26/01/29/07bd334b00df4405b29b2202cb2f8f7e.html
