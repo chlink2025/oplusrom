@@ -1,9 +1,9 @@
-本地更新时间: 2026-01-13 12:28:42
-最新 OTA 版本: PLR110_11.A.43_0430_202601080207
-版本名称: PLR110_16.0.3.501(CN01)
+本地更新时间: 2026-02-02 12:36:58
+最新 OTA 版本: PLR110_11.A.45_0450_202601271922
+版本名称: PLR110_16.0.3.503(CN01)
 Android 版本: Android 16
-ColorOS 版本: PLR110_16.0.3.501(CN01)
+ColorOS 版本: PLR110_16.0.3.503(CN01)
 安全补丁: 2026-01-01
-发布时间: 2026/01/13 10:58:53
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=8f9764c9d0cf3d015ac6525026da0317&p=a6c78fdd3754888a31ce8ea7419e3431c179aeb0436654a6d0be00ecc32b5492e8ea31dbb47e6173e832d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6965ad13007ddc017e03b34d&taste=1&supportDLTaste=0&mode=1&s=3e41b682269cfc7f03dda86775365fa3
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-8f9764c9d0cf3d015ac6525026da0317/component-ota/26/01/13/8545a2bb56ae48099c511c27a8794f2d.html
+发布时间: 2026/02/02 01:37:06
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=ecce502ba7e35eac0102d8cf52c1fd09&p=a6c78fdd375488883ece88ac14ca33679124a9e24f6254f08cbe5abd9729539aecba308fee793121bf3fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=6978c8b5007ddc017e03d1cc&taste=1&supportDLTaste=0&mode=1&s=37b9f76f4ca311c15bf7bf2251945214
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-ecce502ba7e35eac0102d8cf52c1fd09/component-ota/26/01/31/0d8370d7322b4c5f9c5dc990fcf803bc.html
