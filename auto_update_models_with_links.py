@@ -58,7 +58,7 @@ def parse_updater_output(raw_output):
                 if rom_link == "无":
                     rom_link = manual_url
 
-        # 版本字段优先级（与 Android App 完全一致）
+        # 版本字段优先级
         display_coloros = (
             body.get("realVersionName") or
             body.get("realOsVersion") or
@@ -68,7 +68,6 @@ def parse_updater_output(raw_output):
         )
 
         display_android = body.get("realAndroidVersion") or body.get("androidVersion") or "未知"
-
         security_patch = body.get("securityPatch") or body.get("securityPatchVendor") or "未知"
 
         published_time = body.get("publishedTime", 0)
@@ -93,7 +92,7 @@ def parse_updater_output(raw_output):
 def extract_ota_from_line(line):
     return line.split('#')[0].strip()
 
-def process_folder(folder_dir, links_root_dir, region, mode, proxy):
+def process_folder(folder_dir, links_root_dir, default_region, mode, proxy):
     folder_name = os.path.basename(folder_dir)
     txt_file = os.path.join(folder_dir, "ota-version.txt")
 
@@ -101,10 +100,21 @@ def process_folder(folder_dir, links_root_dir, region, mode, proxy):
         print(f"跳过文件夹 {folder_name}：缺少 ota-version.txt")
         return
 
+    # --- 新增：读取局部 region.txt 逻辑 ---
+    effective_region = default_region
+    region_file = os.path.join(folder_dir, "region.txt")
+    if os.path.isfile(region_file):
+        with open(region_file, "r", encoding="utf-8") as rf:
+            folder_region = rf.read().strip()
+            if folder_region:
+                effective_region = folder_region
+    # ------------------------------------
+
     target_links_dir = os.path.join(links_root_dir, folder_name)
     os.makedirs(target_links_dir, exist_ok=True)
 
     print(f"\n=== 处理文件夹：{folder_name} ===")
+    print(f"   当前使用地区 (Region): {effective_region}")
     print(f"   ROM 链接将保存至: {target_links_dir}/")
 
     updated = False
@@ -121,7 +131,8 @@ def process_folder(folder_dir, links_root_dir, region, mode, proxy):
         current_ota = extract_ota_from_line(current_line)
         print(f"当前检查版本：{current_ota}")
 
-        raw_output = run_updater(current_ota, region, mode, proxy)
+        # 使用 effective_region 替代全局 region
+        raw_output = run_updater(current_ota, effective_region, mode, proxy) 
         if not raw_output:
             print("查询失败，停止循环")
             break
@@ -143,16 +154,16 @@ def process_folder(folder_dir, links_root_dir, region, mode, proxy):
         with open(txt_file, "a", encoding="utf-8") as f:
             f.write(new_line + "\n")
 
-        # 生成链接文件
         safe_version_name = coloros_version.replace("/", "_").replace("\\", "_").replace(":", "_").replace("*", "_").replace("?", "_").replace("\"", "_").replace("<", "_").replace(">", "_").replace("|", "_")
         link_file = os.path.join(target_links_dir, f"{safe_version_name}.txt")
 
         with open(link_file, "w", encoding="utf-8") as f:
             f.write(info["romDownloadLink"] + "\n")
-        # 更新 latest-update.txt（内容更丰富，接近 App 显示）
+
         info_file = os.path.join(folder_dir, "latest-update.txt")
         with open(info_file, "w", encoding="utf-8") as f:
             f.write(f"本地更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+            f.write(f"查询地区: {effective_region}\n")
             f.write(f"最新 OTA 版本: {new_ota}\n")
             f.write(f"版本名称: {info['versionName']}\n")
             f.write(f"Android 版本: {info['realAndroidVersion']}\n")
@@ -163,16 +174,13 @@ def process_folder(folder_dir, links_root_dir, region, mode, proxy):
             f.write(f"更新日志链接: {info['descriptionUrl']}\n")
 
         print(f"发现新版本 → {new_ota} ({coloros_version})")
-        if "ColorOS 16" in coloros_version:
-            print("   此版本为 ColorOS 16，已添加下载提示")
-        print(f"   ROM 链接已保存至: links/{folder_name}/{safe_version_name}.txt")
         updated = True
 
     if not updated:
         print(f"文件夹 {folder_name} 无新版本")
 
 def main():
-    parser = argparse.ArgumentParser(description="批量更新 OTA 版本（优化字段优先级 + 更美观输出）")
+    parser = argparse.ArgumentParser(description="批量更新 OTA 版本（支持文件夹独立 region 配置）")
     parser.add_argument("root_dir", nargs="?", default="models", help="包含 ota-version.txt 的文件夹根目录")
     parser.add_argument("--links_dir", default="links", help="ROM 链接存储根目录")
     parser.add_argument("--region", default="CN")
@@ -190,14 +198,14 @@ def main():
 
     os.makedirs(links_root_dir, exist_ok=True)
 
-    print("开始批量更新（字段优先级与官方 App 一致）")
-    print(f"模型目录: {root_dir} | ROM 链接目录: {links_root_dir}")
-    print(f"地区: {args.region} | 模式: {args.mode} | 代理: {args.proxy or '无'}")
-    print("=" * 80)
+    print("开始批量更新")
+    print(f"默认地区: {args.region} (若子文件夹有 region.txt 则优先使用)")
+    print("-" * 40)
 
     for item in sorted(os.listdir(root_dir)):
         folder_dir = os.path.join(root_dir, item)
         if os.path.isdir(folder_dir):
+            # 将 args.region 作为 default_region 传入
             process_folder(folder_dir, links_root_dir, args.region, args.mode, args.proxy)
 
     print("\n所有文件夹处理完成！")
