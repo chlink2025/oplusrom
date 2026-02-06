@@ -1,0 +1,10 @@
+本地更新时间: 2026-02-06 07:00:26
+查询地区: GL
+最新 OTA 版本: OPD2504_11.A.24_0240_202601161214
+版本名称: OPD2504_16.0.2.411(EX01)
+Android 版本: Android 16
+ColorOS 版本: OPD2504_16.0.2.411(EX01)
+安全补丁: 2025-12-01
+发布时间: 2026/01/26 03:49:08
+ROM 下载链接: https://component-ota-sg.allawnos.com/downloadCheck?c=0efc171c74858398fbfb8b8537668a53&p=f088224e006a1389a2bc970d1660d260167b119c7b64c0ef2e1dc6879bc4813740e56c4ff40528e5140d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=9f802e31ca58a233d02a973ae759bf91&id=696a332f007ddc017e03bf2f&taste=0&supportDLTaste=0&mode=1&s=c024f0a66e9a5046dbbddc7b5b1c8ee6
+更新日志链接: https://gauss-componentotamanual.allawnofs.com/remove-0efc171c74858398fbfb8b8537668a53/component-ota/26/01/26/c8284ac226684897a9b820d075f4c18a.html
