@@ -1,9 +1,10 @@
-本地更新时间: 2026-01-29 12:34:38
-最新 OTA 版本: NE2210_11.J.91_4910_202601172300
-版本名称: NE2210_16.0.3.500(CN01)
+本地更新时间: 2026-02-12 01:16:35
+查询地区: CN
+最新 OTA 版本: NE2210_11.J.92_4920_202602101258
+版本名称: NE2210_16.0.3.510(CN01)
 Android 版本: Android 16
-ColorOS 版本: NE2210_16.0.3.500(CN01)
+ColorOS 版本: NE2210_16.0.3.510(CN01)
 安全补丁: 2026-01-01
-发布时间: 2026/01/29 03:51:37
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=7559b8849705769d3f10819ada98f6a9&p=a6c78fdd3754888b31cedeac449730669179fce1486154f3d4e85abe972d5892bbe96bd8b27f3723bc68d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=696cd0639e207b017baabd96&taste=1&supportDLTaste=0&mode=1&s=ffc4cc76f878eb737943bd7499e4cf2e
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-7559b8849705769d3f10819ada98f6a9/component-ota/26/01/28/296821bb020e44639b967dfeff15209d.html
+发布时间: 2026/02/11 15:24:03
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=e7b15fa31162a54fb8526dc693d70e85&p=a6c78fdd3757888b39ce8efd469a64639775ffe84b6554f781b75ab8c2200294b9e936dce2786474be3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=65d73e5901e9d7cea3b1d1e91f9f9ead&id=698adf2d007ddc017e03ea36&taste=1&supportDLTaste=0&mode=1&s=18073ac72dbcc9a4685909d33e13c29c
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-e7b15fa31162a54fb8526dc693d70e85/component-ota/26/02/11/a3f47529133c42639efaea333d2bd5d4.html
