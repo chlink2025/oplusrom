@@ -1,0 +1,10 @@
+本地更新时间: 2026-02-13 07:30:41
+查询地区: IN
+最新 OTA 版本: CPH2745_11.A.27_0270_202601280008
+版本名称: CPH2745_16.0.3.503(EX01)
+Android 版本: Android 16
+ColorOS 版本: CPH2745_16.0.3.503(EX01)
+安全补丁: 2026-02-01
+发布时间: 2026/02/09 01:56:12
+ROM 下载链接: https://component-ota-in.allawnos.com/downloadCheck?c=29146d5b76efe2d20f4c643d95ab7cc3&p=a50845bd674e8546cc601242644971d02fd81fff4c134466507684e4f492db830d5ffec6c0c681ffe0064b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=53dd5025990e94a52a2233e975509944&id=69893c31007ddc017e03e816&taste=0&supportDLTaste=0&mode=1&s=58f6f716a9b2463b7f89f6829bfc8c2d
+更新日志链接: https://gauss-componentotamanual.allawnofs.com/remove-29146d5b76efe2d20f4c643d95ab7cc3/component-ota/26/02/09/928dbe5742724507b36b505d6b1d6567.html
