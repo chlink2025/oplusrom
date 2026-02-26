@@ -1,9 +1,10 @@
-本地更新时间: 2026-01-01 10:02:25
-最新 OTA 版本: PHP110_11.H.07_3070_202512101658
-版本名称: PHP110_16.0.2.400(CN01)
+本地更新时间: 2026-02-26 01:14:02
+查询地区: CN
+最新 OTA 版本: PHP110_11.H.09_3090_202602050156
+版本名称: PHP110_16.0.3.500(CN01)
 Android 版本: Android 16
-ColorOS 版本: PHP110_16.0.2.400(CN01)
-安全补丁: 2025-12-01
-发布时间: 2025/12/30 13:45:31
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=d9eb78e11c1dfc79014aba4b75d0d430&p=a6c78cdd3657888b38ced9fe4b99376d9373aee04f6554f3d6ea03bb937e5192b8be65dfb229362fba6fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=10eab6008d5642cf42abd2aa41f847cb&id=695295f5007ddc017e039c0c&taste=1&supportDLTaste=0&mode=1&s=caaee07e0c63975fe4d9d5e8d4127cfe
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-d9eb78e11c1dfc79014aba4b75d0d430/component-ota/25/12/30/b5243336b8234e969201dffd9a443c42.html
+ColorOS 版本: PHP110_16.0.3.500(CN01)
+安全补丁: 2026-02-01
+发布时间: 2026/02/25 14:45:59
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=dc1ac2e1f83da6dc559151b096396c90&p=a6c78fdd3757888a3cce8ffc179d63639472f4e54c3254f6d1bf5bb0902e07c7edb9648de32e362ee83ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=889e8257786e4d72335b380e02437383&id=698483189e207b017baae218&taste=1&supportDLTaste=0&mode=1&s=17fe2e8585b3eef1531d4e813f419f78
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-dc1ac2e1f83da6dc559151b096396c90/component-ota/26/02/25/4feba0a924b44fabaf355c8bad460d5e.html
