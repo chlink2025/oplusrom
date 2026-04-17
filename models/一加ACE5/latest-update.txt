@@ -1,10 +1,10 @@
-本地更新时间: 2026-03-23 12:43:57
+本地更新时间: 2026-04-17 12:58:21
 查询地区: CN
-最新 OTA 版本: PKG110_11.F.34_2340_202603192236
-版本名称: PKG110_16.0.5.701(CN01)
+最新 OTA 版本: PKG110_11.F.35_2350_202604091348
+版本名称: PKG110_16.0.5.702(CN01)
 Android 版本: Android 16
-ColorOS 版本: PKG110_16.0.5.701(CN01)
+ColorOS 版本: PKG110_16.0.5.702(CN01)
 安全补丁: 2026-03-01
-发布时间: 2026/03/23 12:19:33
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=aa37b2107eaa9235abdd25fedaea7983&p=a6c78fdd3756888839cedcad14cc31609170a9e0423754f2d0ea5ae9c52b5894bbec3489ef2e6426e93fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=7b7dd1567f3d152809ed9bf185ea8a32&id=69c126d0007ddc017e041da3&taste=1&supportDLTaste=0&mode=1&s=fe67ef906701ff9ee5ee671f0347b0af
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-aa37b2107eaa9235abdd25fedaea7983/component-ota/26/03/23/97335c4aef7a46aeac4cbbc7460c0f0e.html
+发布时间: 2026/04/17 09:09:03
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=9547db23c26242b8294d51241221048a&p=a6c78fdd3751888a30ce8cfd10ca3266c472fee34e6154a287ed5bbd912e50c1bfe96adfb12b3626ef3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=730a9491480771669bd69fcd6e6d1cdb&id=69e1f3ea9e207b01827c1419&taste=1&supportDLTaste=0&mode=1&s=d078b1a883d4abf46c555992860193b6
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-9547db23c26242b8294d51241221048a/component-ota/26/04/17/2e95ef215ab1487c8088e7b2347043a6.html

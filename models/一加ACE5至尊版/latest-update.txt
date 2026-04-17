@@ -1,10 +1,10 @@
-本地更新时间: 2026-03-23 12:44:09
+本地更新时间: 2026-04-17 12:58:28
 查询地区: CN
-最新 OTA 版本: PLC110_11.C.29_1290_202603102237
-版本名称: PLC110_16.0.5.700(CN01)
+最新 OTA 版本: PLC110_11.C.30_1300_202604101246
+版本名称: PLC110_16.0.5.701(CN01)
 Android 版本: Android 16
-ColorOS 版本: PLC110_16.0.5.700(CN01)
+ColorOS 版本: PLC110_16.0.5.701(CN01)
 安全补丁: 2026-03-01
-发布时间: 2026/03/23 06:59:51
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=a59862c84af18ef8cc4d17dcb6dcebd7&p=a6c78fdd3756888b3bcedcae439b6037c376f8e4496754f684ea5bbd947e00c0ece930dbb27c3274e93ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=1b13d37a000e794a8dd224e15cee0343&id=69b21ab39e207b017bab06de&taste=1&supportDLTaste=0&mode=1&s=da0ae660daa9a7d76f6de2552af205cb
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-a59862c84af18ef8cc4d17dcb6dcebd7/component-ota/26/03/23/6cc080f0183b40ae928f95084ead94dd.html
+发布时间: 2026/04/17 12:47:40
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=3c05009a222d23c5747d3a1127a99a55&p=a6c78fdd3751888b3bce8bfd419f62369f21a8e5196f54fe8ceb00be907a5192ebbb63dae32c302ebc3fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=cb19385d4898617c153e28686383b6ed&id=69e203ac007ddc01813da627&taste=1&supportDLTaste=0&mode=1&s=a68fbdd91b6378193ce9a1aa08db949a
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-3c05009a222d23c5747d3a1127a99a55/component-ota/26/04/17/b774fe84637340f095a438466bec9046.html
