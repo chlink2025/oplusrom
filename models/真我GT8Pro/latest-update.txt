@@ -1,10 +1,10 @@
-本地更新时间: 2026-03-30 12:55:44
+本地更新时间: 2026-04-23 01:48:10
 查询地区: CN
-最新 OTA 版本: RMX5200_11.A.66_0660_202603181840
-版本名称: RMX5200_16.0.5.702(CN01)
+最新 OTA 版本: RMX5200_11.A.67_0670_202604141230
+版本名称: RMX5200_16.0.5.704(CN01)
 Android 版本: Android 16
-ColorOS 版本: RMX5200_16.0.5.702(CN01)
-安全补丁: 2026-03-01
-发布时间: 2026/03/30 01:32:16
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=09756cd1c6f45644555262e4b51382fb&p=a6c78fdd3756888839ced4ad4698636d9522f5b54b6154f480b700ea907c50c3bebc6bdde52e6174bd3ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=1e3de5723f220121a1b669631f541eae&id=69c9ceee9e207b017bab241f&taste=0&supportDLTaste=0&mode=1&s=bd2fd2e06c2a780faef8c1535035a363
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-09756cd1c6f45644555262e4b51382fb/component-ota/26/03/30/71de2ea49816449e9dff8fb938c3fa4b.html
+ColorOS 版本: RMX5200_16.0.5.704(CN01)
+安全补丁: 2026-04-01
+发布时间: 2026/04/23 01:01:18
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=b05645c4e3c0dddedadacd4f9a598cb4&p=a6c78fdd3751888b3cced5a74a9d37379777fdb44f3554f4d7b85aed93285892bfee34dee22d392fb56ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=ca0c8de1c6127a7cb4167d4a74581781&id=69e96d679e207b01827c1ccb&taste=0&supportDLTaste=0&mode=1&s=22ee2218dd7dde5f869dcebd434d4be6
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-b05645c4e3c0dddedadacd4f9a598cb4/component-ota/26/04/23/6c5c7c4c7ba54a3984486fdad43a72c4.html
