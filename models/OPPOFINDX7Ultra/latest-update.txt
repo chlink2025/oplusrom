@@ -1,10 +1,10 @@
-本地更新时间: 2026-04-20 13:07:31
+本地更新时间: 2026-05-25 02:32:38
 查询地区: CN
-最新 OTA 版本: PHY110_11.F.23_2230_202604091342
-版本名称: PHY110_16.0.5.702(CN01)
+最新 OTA 版本: PHY110_11.F.25_2250_202605162119
+版本名称: PHY110_16.0.7.200(CN01)
 Android 版本: Android 16
-ColorOS 版本: PHY110_16.0.5.702(CN01)
-安全补丁: 2026-03-01
-发布时间: 2026/04/20 08:46:04
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=27978f9c81c98bb8bccfe8ca38921334&p=a6c78fdd3751888b39cedafa4b9f38639f72acb04e3554f785eb00ba927d53c4eab66a8fb278662fef3ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=1a33ce0a477d2f9945017042209960ce&id=69d8625d9e207b01827c06de&taste=1&supportDLTaste=0&mode=1&s=b71a3981cb2f55932c988d01749642a2
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-27978f9c81c98bb8bccfe8ca38921334/component-ota/26/04/20/9127168227f34788ab274bb60e5af199.html
+ColorOS 版本: PHY110_16.0.7.200(CN01)
+安全补丁: 2026-05-01
+发布时间: 2026/05/25 01:15:07
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=6647debb8e45e14952a5dd67e2ab05dd&p=a6c78fdd3750888b31ce8ef914983531c174fbb5426054f282ed5abbc52e529abbeb6b8fb32b6424ee3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=820d8d7a59e4214be4b38e8174e66e89&id=6a0a65269e207b01827c3590&taste=1&supportDLTaste=0&mode=1&tr=manual&s=be2c5b56b98c4014ea136a1046ac2b34
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-6647debb8e45e14952a5dd67e2ab05dd/component-ota/26/05/23/fe867a6de0cc45b6a934b3bff9b4fd41.html
