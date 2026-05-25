@@ -1,10 +1,10 @@
-本地更新时间: 2026-03-10 01:09:40
+本地更新时间: 2026-05-25 14:35:58
 查询地区: CN
-最新 OTA 版本: PHK110_11.H.54_3540_202602261836
-版本名称: PHK110_16.0.3.501(CN01)
+最新 OTA 版本: PHK110_11.H.56_3560_202605131820
+版本名称: PHK110_16.0.5.700(CN01)
 Android 版本: Android 16
-ColorOS 版本: PHK110_16.0.3.501(CN01)
-安全补丁: 2026-03-01
-发布时间: 2026/03/09 15:26:31
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=93b5c30fbc501bf6f4395a4c3290f688&p=a6c78fdd375788883fcedafb179860319073a9e51f6754f486ed5aee9e7e5296b8bf368de1796674ef6ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=f8fa447225b504e6c1063b6fe6808453&id=69a04eca9e207b017baaf028&taste=1&supportDLTaste=0&mode=1&s=31034bab8f79bfcc606c5238fd11e718
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-93b5c30fbc501bf6f4395a4c3290f688/component-ota/26/03/09/677cb11591fe4fa39a0ce85ac1308a13.html
+ColorOS 版本: PHK110_16.0.5.700(CN01)
+安全补丁: 2026-05-01
+发布时间: 2026/05/25 07:49:34
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=7998d5eff580f28c11bee0163e571ac8&p=a6c78fdd3750888b3dcedafc119b3535c223aee74e3054f5d1bf5aebc57b5997ebee33dfb57d6171b869d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=ee34ece76378f3229d4ed837098f304a&id=6a05c1ef9e207b01827c33ca&taste=1&supportDLTaste=0&mode=1&tr=manual&s=ca8e9f0962ebd00af5bd44e8dd1986d0
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-7998d5eff580f28c11bee0163e571ac8/component-ota/26/05/25/2495cfe045f14a209620481a3eaa37c1.html
