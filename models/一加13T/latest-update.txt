@@ -1,10 +1,10 @@
-本地更新时间: 2026-05-11 14:28:05
+本地更新时间: 2026-06-09 14:26:56
 查询地区: CN
-最新 OTA 版本: PKX110_11.C.46_1460_202604292022
-版本名称: PKX110_16.0.7.200(CN01)
+最新 OTA 版本: PKX110_11.C.47_1470_202606022230
+版本名称: PKX110_16.0.8.300(CN01)
 Android 版本: Android 16
-ColorOS 版本: PKX110_16.0.7.200(CN01)
-安全补丁: 2026-05-01
-发布时间: 2026/05/11 14:25:03
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=4b9ccf88d5e4478cf71ade17d2d9bb84&p=a6c78fdd3751888939cedbf945ce31319277a8b44e6254a487ed00bb96795991edbd61dae0293075ee69d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=ae3fed9b8a6e79c6ffb3b23e4e6ae29c&id=6a01d548007ddc01813dc081&taste=1&supportDLTaste=0&mode=1&tr=manual&s=6c1714319438f9f72b7c3aeb81a87521
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-4b9ccf88d5e4478cf71ade17d2d9bb84/component-ota/26/05/11/5b2d4ab60b1f42de956b23b33a873634.html
+ColorOS 版本: PKX110_16.0.8.300(CN01)
+安全补丁: 2026-06-01
+发布时间: 2026/06/09 13:49:23
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=181943efa5d435c3dab946f9bbb5c6b4&p=a6c78fdd3753888a3acedbfb4b9e31669325f5e84c6e54f08cba5ae9c5205992e3bc34dae02a3271bf6dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=b81acdb82a636a41f0ff0c4d8cbb0ea7&id=6a1f774a9e207b01827c4da2&taste=1&supportDLTaste=0&mode=1&tr=manual&s=aede3cb9a049201a32e9a033f47c3011
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-181943efa5d435c3dab946f9bbb5c6b4/component-ota/26/06/09/8155f471c3a745c0851b95adfef9c096.html
