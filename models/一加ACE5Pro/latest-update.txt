@@ -1,10 +1,10 @@
-本地更新时间: 2026-05-19 14:37:52
+本地更新时间: 2026-06-17 14:51:40
 查询地区: CN
-最新 OTA 版本: PKR110_11.C.25_1250_202605121118
-版本名称: PKR110_16.0.7.200(CN01)
+最新 OTA 版本: PKR110_11.C.26_1260_202606081952
+版本名称: PKR110_16.0.8.300(CN01)
 Android 版本: Android 16
-ColorOS 版本: PKR110_16.0.7.200(CN01)
-安全补丁: 2026-05-01
-发布时间: 2026/05/19 12:09:04
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=8ee6526586df9e9fbbc610c7dc84fe27&p=a6c78fdd3750888b3acedda841ce3232c376fab24f3454f18cbe5abd957a56c3edb834d9e67d6475b533d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=3ecdbbeacbafd37a32e05f2f6b4e8f7f&id=6a0c015e9e207b01827c375e&taste=1&supportDLTaste=0&mode=1&tr=manual&s=403e1bc253b5a0c5e82d7faaa71d43d4
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-8ee6526586df9e9fbbc610c7dc84fe27/component-ota/26/05/19/28bd621098934c34842eff6736462056.html
+ColorOS 版本: PKR110_16.0.8.300(CN01)
+安全补丁: 2026-06-01
+发布时间: 2026/06/17 11:34:46
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=79dac2d48b842c757fe9c7a30dc536a6&p=a6c78fdd3753888a30ce88ab4b9b63319076afe61e6554f58cbb03bdc2295396bbba378fe3793122bb39d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=dc19ded53da5c9d5ca216a09d0f30416&id=6a2804469e207b01827c5604&taste=1&supportDLTaste=0&mode=1&tr=manual&s=b5b4b68b104956672feb2dd00b389c48
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-79dac2d48b842c757fe9c7a30dc536a6/component-ota/26/06/17/0826f3b218c74764a7636bd5e6fe3fd4.html
