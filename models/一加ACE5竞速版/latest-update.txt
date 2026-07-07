@@ -1,10 +1,10 @@
-本地更新时间: 2026-06-17 14:51:41
+本地更新时间: 2026-07-07 14:07:25
 查询地区: CN
-最新 OTA 版本: PLF110_11.C.61_1610_202606082208
-版本名称: PLF110_16.0.8.301(CN01)
+最新 OTA 版本: PLF110_11.C.62_1620_202606201832
+版本名称: PLF110_16.0.8.302(CN01)
 Android 版本: Android 16
-ColorOS 版本: PLF110_16.0.8.301(CN01)
+ColorOS 版本: PLF110_16.0.8.302(CN01)
 安全补丁: 2026-06-01
-发布时间: 2026/06/17 09:25:06
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=1a6787d66dd0773714e78d19402024c6&p=a6c78fdd3753888a30ced5fc17c933369673fce74a6f54a482eb03bac221589aefee33dbe32d3675bc3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=a9f7cf13de4f8743e80a7bad9bb4641e&id=6a2826ed9e207b01827c5635&taste=1&supportDLTaste=0&mode=1&tr=manual&s=3ffa941add30aa1f8592ed263e95bc2e
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-1a6787d66dd0773714e78d19402024c6/component-ota/26/06/17/2212aeee8ccd4197a98ba73a5dca6f31.html
+发布时间: 2026/07/07 06:17:56
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=c1ebe1d29a5c05289b93cc50b8848c11&p=a6c78fdd375388883bced8fb109e65649023fbe64d6654a681be00bdc07e039bebed6bd9e579392fb433d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=0a6248e59a99a53cb2cd2641df6a49dd&id=6a4c495e007ddc01813e06ac&taste=0&supportDLTaste=0&mode=1&tr=manual&s=11b0a84cf708fb5aa8c94e6d12b453ff
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-c1ebe1d29a5c05289b93cc50b8848c11/component-ota/26/07/07/3364a123340646e99870dc9d50314a82.html
