@@ -1,10 +1,10 @@
-本地更新时间: 2026-06-15 16:58:04
+本地更新时间: 2026-07-15 01:24:52
 查询地区: CN
-最新 OTA 版本: OPD2413_11.C.33_1330_202606041639
-版本名称: OPD2413_16.0.8.300(CN01)
+最新 OTA 版本: OPD2413_11.C.34_1340_202607031844
+版本名称: OPD2413_16.0.9.400(CN01)
 Android 版本: Android 16
-ColorOS 版本: OPD2413_16.0.8.300(CN01)
-安全补丁: 2026-06-01
-发布时间: 2026/06/15 11:13:09
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=7652fb483c20cbcd1a3115b5376979d6&p=a6c78fdd3753888a3ccedaaf13cb67309371f4e91f3554f083b85bea912e5795bbbb30d2ef7b3176b93ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=619915aeb3b504573808033e924dde9e&id=6a221a23007ddc01813de241&taste=1&supportDLTaste=0&mode=1&tr=manual&s=81fd288703644ae5e23acc23ab9dfae9
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-7652fb483c20cbcd1a3115b5376979d6/component-ota/26/06/15/ce8c5a03448140d88fb2ad22ce4fa99c.html
+ColorOS 版本: OPD2413_16.0.9.400(CN01)
+安全补丁: 2026-07-01
+发布时间: 2026/07/14 14:46:54
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=05e59dfe62a395a37e9a8f4bec3b3f9f&p=a6c78fdd3752888a3ecedcfb479b396d9573ffb71e6054f084ed00ecc22a5390beeb65dbe62d3720bc6ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=37f9922fd6197f7d8bac21ec19cda9eb&id=6a4cb7b1007ddc01813e07a0&taste=1&supportDLTaste=0&mode=1&tr=manual&s=7d26864556d9907fbfbcbc78e463e554
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-05e59dfe62a395a37e9a8f4bec3b3f9f/component-ota/26/07/14/1f49327ce6714dc8937cf7a75975d2fa.html
