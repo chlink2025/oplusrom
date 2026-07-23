@@ -1,10 +1,10 @@
-本地更新时间: 2026-04-23 13:02:24
+本地更新时间: 2026-07-23 13:24:53
 查询地区: CN
-最新 OTA 版本: PHB110_11.H.11_3110_202604141658
-版本名称: PHB110_16.0.5.701(CN01)
+最新 OTA 版本: PHB110_11.H.13_3130_202607172124
+版本名称: PHB110_16.0.5.1002(CN01)
 Android 版本: Android 16
-ColorOS 版本: PHB110_16.0.5.701(CN01)
-安全补丁: 2026-04-01
-发布时间: 2026/04/23 08:07:41
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=6e8944bc65fcf447607570b07622ca89&p=a6c78fdd3751888b3ccedbfa44cc34309074fee8423054a580b95bba952054c7e3b76ad9b32b3371bf33d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=3fb53f55c2829b7a067ba157328ceb8e&id=69df95999e207b01827c0f71&taste=1&supportDLTaste=0&mode=1&s=29fad864b291a7b9bc03251181ad4b6a
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-6e8944bc65fcf447607570b07622ca89/component-ota/26/04/23/460e0b2731e748d0ad1aa57e4938134d.html
+ColorOS 版本: PHB110_16.0.5.1002(CN01)
+安全补丁: 2026-07-01
+发布时间: 2026/07/23 11:24:17
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=68685f678555946c9827e44be17f88a0&p=a6c78fdd3752888839ced8ae439f35639122fae01f3254a6d3ef00ed947e0394ecb9668ee37e642fb56ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=e792a36bc3e541df29af90d0aa9b93d8&id=6a61eb8e007ddc01813e1a72&taste=1&supportDLTaste=0&mode=1&tr=manual&s=52746037296c62e25e877420d1858076
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-68685f678555946c9827e44be17f88a0/component-ota/26/07/23/efded71b5539408298e7975f576ffb71.html
