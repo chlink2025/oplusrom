@@ -1,10 +1,10 @@
-本地更新时间: 2026-04-20 13:08:00
+本地更新时间: 2026-07-24 01:50:52
 查询地区: CN
-最新 OTA 版本: PJE110_11.F.29_2290_202604091628
-版本名称: PJE110_16.0.5.701(CN01)
+最新 OTA 版本: PJE110_11.F.31_2310_202607172126
+版本名称: PJE110_16.0.5.1002(CN01)
 Android 版本: Android 16
-ColorOS 版本: PJE110_16.0.5.701(CN01)
-安全补丁: 2026-04-01
-发布时间: 2026/04/20 07:43:06
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=3199bf49d27d5988365ec17412921939&p=a6c78fdd3751888b39cedaaf109d6464c575f5e64e3254a585b803e9932e0496bbba6389b57b6575ec3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=b60149a1617ec28b21f16e9127033600&id=69d8bdd79e207b01827c0756&taste=1&supportDLTaste=0&mode=1&s=d490d18d363044dc68d027d766e1e35b
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-3199bf49d27d5988365ec17412921939/component-ota/26/04/20/2b068a5c75f64fac8836b2ac088b1071.html
+ColorOS 版本: PJE110_16.0.5.1002(CN01)
+安全补丁: 2026-07-01
+发布时间: 2026/07/23 14:39:05
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=3bd79ff3edc87cd02d09af8cbaab5269&p=a6c78fdd375288883bced8fe4bcb3265c374f9b54f3554a3d1ed5abfc22f5091e3be648ae72a3727be3fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=d805cce25b2fcb6f46efcf4b820f312e&id=6a6020e59e207b01827c8622&taste=1&supportDLTaste=0&mode=1&tr=manual&s=19592ee3dd331508d3d6c1f272db5f45
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-3bd79ff3edc87cd02d09af8cbaab5269/component-ota/26/07/23/b3a5de257dd7407c9b81e302706d1a23.html
