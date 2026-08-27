@@ -1,10 +1,10 @@
-本地更新时间: 2026-06-09 14:27:12
+本地更新时间: 2026-08-27 05:47:45
 查询地区: CN
-最新 OTA 版本: PJA110_11.H.13_3130_202606011856
-版本名称: PJA110_16.0.5.702(CN01)
+最新 OTA 版本: PJA110_11.H.14_3140_202608191240
+版本名称: PJA110_16.0.5.1201(CN01)
 Android 版本: Android 16
-ColorOS 版本: PJA110_16.0.5.702(CN01)
-安全补丁: 2026-05-01
-发布时间: 2026/06/09 11:11:50
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=521f79e28067391cc300b2e4ee8ad772&p=a6c78fdd3753888a3aced5f910cc65629779ffb71f3354f68dea00bf9f2c0397e8ec6bd9ee293124bd32d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=490d8c80eb18fbc0d00d7420b99fc4a9&id=6a2010e09e207b01827c4e7c&taste=1&supportDLTaste=0&mode=1&tr=manual&s=850d4b7ac8a292d83b7626028c9da775
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-521f79e28067391cc300b2e4ee8ad772/component-ota/26/06/09/2e22133fbf6c459f899fa65943c0dbec.html
+ColorOS 版本: PJA110_16.0.5.1201(CN01)
+安全补丁: 2026-08-01
+发布时间: 2026/08/27 02:17:04
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=304fdcd915c8e030d16b695562e6eb2a&p=a6c78fdd375d888b30ced9f9449e37669678f4b34f3254f38dbe00b091795597edeb6addb5713674b532d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=dc8f61d6410bef09488058f27d8684ec&id=6a8594ec92ce7c01836a3eec&taste=1&supportDLTaste=0&mode=1&tr=manual&s=96452550c8f65abf930d4506a2fcd2cb
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-304fdcd915c8e030d16b695562e6eb2a/component-ota/26/08/27/efe213bba178450bbb65a5c3b226a56f.html
