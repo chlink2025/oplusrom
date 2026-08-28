@@ -1,10 +1,10 @@
-本地更新时间: 2026-06-02 16:00:09
+本地更新时间: 2026-08-28 21:35:12
 查询地区: EU
-最新 OTA 版本: OPD2504_11.A.31_0310_202605211741
-版本名称: OPD2504_16.0.5.711(EX01)
+最新 OTA 版本: OPD2504_11.A.34_0340_202608102337
+版本名称: OPD2504_16.0.5.1200(EX01)
 Android 版本: Android 16
-ColorOS 版本: OPD2504_16.0.5.711(EX01)
-安全补丁: 2026-04-01
-发布时间: 2026/06/02 13:52:55
-ROM 下载链接: https://component-ota-eu.allawnos.com/downloadCheck?c=078766a6d6c68a1fd87786b0dd3bf815&p=c25c9713dab0a25c839e62ff6e3ee31004a38a4ba2de737b2763d2ac53c038d1476aafa4378ade3367af181c2077&d=851ad54c99bfa241d5d076b47975b91b5ae3d60ba797246f7975c5af5dc86d924a61afb32ddb8867&g=cf70ed5921bcfbb5269aed09f337bbcd&id=6a0fb8db007ddc01813dceb0&taste=0&supportDLTaste=0&mode=1&tr=manual&s=8c176cc01bdb38393431eef7a61e1845
-更新日志链接: https://gauss-componentotamanual.allawnofs.com/remove-078766a6d6c68a1fd87786b0dd3bf815/component-ota/26/06/02/00683a4db5eb45c99fa23e0bd0d54da6.html
+ColorOS 版本: OPD2504_16.0.5.1200(EX01)
+安全补丁: 2026-08-01
+发布时间: 2026/08/28 08:54:36
+ROM 下载链接: https://component-ota-eu.allawnos.com/downloadCheck?c=a905d888c87515f4c26699bf24e0c3d6&p=c25c9713dabda25f8a9e3bf56c61ec4000a18c4dff8d732429338aab09c13c87113dfdf43781d5336bad181c2077&d=851ad54c99bfa241d5d076b47975b91b5ae3d60ba797246f7975c5af5dc86d924a61afb32ddb8867&g=9e3a9cfcc41a20ee339caa2e92723ba4&id=6a83c8de92ce7c0182b45bee&taste=0&supportDLTaste=0&mode=1&tr=manual&s=176ba6c27dbb393eef2273192b15679a
+更新日志链接: https://gauss-componentotamanual.allawnofs.com/remove-a905d888c87515f4c26699bf24e0c3d6/component-ota/26/08/28/b00476ced3914fe79668bcd664f0b317.html
