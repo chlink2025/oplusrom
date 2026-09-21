@@ -1,10 +1,10 @@
-本地更新时间: 2026-07-15 01:24:49
+本地更新时间: 2026-09-21 17:27:11
 查询地区: CN
-最新 OTA 版本: PLY110_11.A.39_0390_202607101221
-版本名称: PLY110_16.0.9.401(CN01)
+最新 OTA 版本: PLY110_11.A.45_0450_202609082024
+版本名称: PLY110_16.0.10.600(CN01)
 Android 版本: Android 16
-ColorOS 版本: PLY110_16.0.9.401(CN01)
-安全补丁: 2026-07-01
-发布时间: 2026/07/14 14:47:13
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=89f9089fa38b07d993797900de5c686f&p=a6c78fdd3752888b3acedefd139a62639172acb21f3054a6d3ba5bec972a009aeeee37dab6786123b56ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=5b3e0b10e80ba688bf4f7be7a3aeabb9&id=6a557d7c9e207b01827c7dea&taste=1&supportDLTaste=0&mode=1&tr=manual&s=7fae27f457f2957da6dc9f444cac712f
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-89f9089fa38b07d993797900de5c686f/component-ota/26/07/14/b8cf8588e6ce4feb9c4a515e14ae684c.html
+ColorOS 版本: PLY110_16.0.10.600(CN01)
+安全补丁: 2026-09-01
+发布时间: 2026/09/21 08:23:45
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=71640a08be9ed2c0d5095021757b18d2&p=a6c78fdd375c888b39cedbaa11cb62659771ffb04d3754f083ba5beb9e7e5492bcb931dee12b3176b43fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=51e68bc3a302e80f3ab8c80014ab1498&id=6aa1906876d168017ee7e610&taste=1&supportDLTaste=0&mode=1&tr=manual&s=f97ee0334b62780fcd68df1511ebb38d
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-71640a08be9ed2c0d5095021757b18d2/component-ota/26/09/21/96c6d55bf01544279e5a30486dd34e6b.html
