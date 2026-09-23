@@ -1,10 +1,10 @@
-本地更新时间: 2026-08-22 12:18:38
+本地更新时间: 2026-09-23 15:46:29
 查询地区: GL
-最新 OTA 版本: CPH2747_11.A.46_0460_202607312129
-版本名称: CPH2747_16.0.10.500(EX01)
+最新 OTA 版本: CPH2747_11.A.48_0480_202609111034
+版本名称: CPH2747_16.0.10.601(EX01)
 Android 版本: Android 16
-ColorOS 版本: CPH2747_16.0.10.500(EX01)
-安全补丁: 2026-08-01
-发布时间: 2026/08/22 06:56:16
-ROM 下载链接: https://component-ota-sg.allawnos.com/downloadCheck?c=dc5623c3791be0ca1fedc139e05a4c0e&p=f088224e00631388a7bc9b001233d663412d19942c32c0e82e1bc786cfc3813310b3354efe5126e14203452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=6618115ee14549923572361d09b1f7ba&id=6a707aa476d168017f1d71af&taste=0&supportDLTaste=0&mode=1&tr=manual&s=90627227c51042d4591454d0ce9d0384
-更新日志链接: https://gauss-componentotamanual.allawnofs.com/remove-dc5623c3791be0ca1fedc139e05a4c0e/component-ota/26/08/21/4f6cb1de1c654b9692cf26a375b9c50f.html
+ColorOS 版本: CPH2747_16.0.10.601(EX01)
+安全补丁: 2026-09-01
+发布时间: 2026/09/23 12:50:44
+ROM 下载链接: https://component-ota-sg.allawnos.com/downloadCheck?c=1ceb4ada48bab24b857b77bb500956e2&p=f088224e00621389a2bc96564264d266122940902e60c0ee7e12c781cd95d63646ea311ea9022bbc420d452b5ef4&d=b7ce601143611397f3f2d646007a853e1a3c4ed07f2b97f43c4dd1d191cbd2714cbd320fe30771e9&g=ab23391d133c421d09c2b1ecb9c1d0f5&id=6aaa6fce92ce7c01836a67c4&taste=0&supportDLTaste=0&mode=1&tr=manual&s=2acfb4c7b208b92362729f0b64c26b2b
+更新日志链接: https://gauss-componentotamanual.allawnofs.com/remove-1ceb4ada48bab24b857b77bb500956e2/component-ota/26/09/23/92c23e14f4894df5932e9fe1e8c999df.html
