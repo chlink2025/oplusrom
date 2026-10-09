@@ -1,10 +1,10 @@
-本地更新时间: 2026-09-30 17:14:58
+本地更新时间: 2026-10-09 17:44:10
 查询地区: CN
-最新 OTA 版本: PLK110_11.C.75_1750_202609240641
-版本名称: PLK110_17.0.0.102(CN01)
+最新 OTA 版本: PLK110_11.C.76_1760_202610051308
+版本名称: PLK110_17.0.0.105(CN01)
 Android 版本: Android 17
-ColorOS 版本: PLK110_17.0.0.102(CN01)
+ColorOS 版本: PLK110_17.0.0.105(CN01)
 安全补丁: 2026-09-01
-发布时间: 2026/09/30 07:33:26
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=64f72b65c6826b9d9b27a1b5dba30b38&p=a6c78fdd375c88883dced8ac4bcd67669222afe6483254a282ef5bb9c42c52c7eebd36daef7e3573bb3fd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=fc4ddc564bed39620417b44108f9b670&id=6abc64ac76d168017ee801a4&taste=1&supportDLTaste=0&mode=1&tr=manual&s=e0034a86d98723ebd6cdca83cbf6599d
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-64f72b65c6826b9d9b27a1b5dba30b38/component-ota/26/09/30/ffdcf5f3ce8f421dbca180cec90a3c34.html
+发布时间: 2026/10/09 04:55:04
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=ebbb80c9747c06f2a77f626b5b9d1533&p=a6c78fdd3655888a3cced5ac44c9376c9578fbe54e6354f5d0ea5bb89f7952c6edbc338de47c6620be32d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=0e934e835fa668b2f697fe649fc5d12b&id=6ac862e176d168017ee8066a&taste=1&supportDLTaste=0&mode=1&tr=manual&s=f72fc002f5c5fc95977a0cc47f13a99d
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-ebbb80c9747c06f2a77f626b5b9d1533/component-ota/26/10/09/38a744df7beb45c1a6e0b6559d29e0b2.html
