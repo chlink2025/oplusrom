@@ -1,10 +1,10 @@
-本地更新时间: 2026-08-13 12:45:47
+本地更新时间: 2026-10-15 15:59:12
 查询地区: CN
-最新 OTA 版本: PJZ110_11.C.93_1930_202608031342
-版本名称: PJZ110_16.0.10.501(CN01)
-Android 版本: Android 16
-ColorOS 版本: PJZ110_16.0.10.501(CN01)
-安全补丁: 2026-08-01
-发布时间: 2026/08/13 08:45:33
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=ac3ec2b6ffa2b6b961d4c83d581cb731&p=a6c78fdd375d888a3dced4ae119e67359674aee84c3254f083bb5ab9937d5896e9bb3689b47c6121ec3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=4f533f4ef9a3e342ce5db8eae4856def&id=6a7d763592ce7c01806f6980&taste=1&supportDLTaste=0&mode=1&tr=manual&s=91e8d74e09443091c21a9095664521a7
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-ac3ec2b6ffa2b6b961d4c83d581cb731/component-ota/26/08/13/356835a3d6d4453ba34af0246c7730db.html
+最新 OTA 版本: PJZ110_11.F.07_2070_202610080010
+版本名称: PJZ110_17.0.0.103(CN01)
+Android 版本: Android 17
+ColorOS 版本: PJZ110_17.0.0.103(CN01)
+安全补丁: 2026-09-01
+发布时间: 2026/10/15 09:23:50
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=57958b23f02c6548232d233785cdc930&p=a6c78fdd3655888a31ced5f9169e30319070afb74e3354a48cb95bba957c0292bcea34dce02b3771ee3cd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=80c96562f7a07e7ba63ee904e16b519e&id=6ad0860e7d8131017f156f59&taste=1&supportDLTaste=0&mode=1&tr=manual&s=673e03493e3afa37339ca987f6e60337
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-57958b23f02c6548232d233785cdc930/component-ota/26/10/15/11da26a92df7441d88439776ec8b537c.html
