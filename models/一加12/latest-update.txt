@@ -1,10 +1,10 @@
-本地更新时间: 2026-08-25 00:41:07
+本地更新时间: 2026-11-10 05:15:01
 查询地区: CN
-最新 OTA 版本: PJD110_11.F.57_2570_202608111410
-版本名称: PJD110_16.0.10.501(CN01)
-Android 版本: Android 16
-ColorOS 版本: PJD110_16.0.10.501(CN01)
-安全补丁: 2026-08-01
-发布时间: 2026/08/25 00:00:22
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=0530b427990f20056761a093f8bc4dff&p=a6c78fdd375d888b3aced8fe4b9f6535c672fbb54f6054a3d0ba5bb0c37d5896efba6adeee2c6127eb68d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=77d8e518cc4c059d9b21ebbd958ad0cc&id=6a8c3a1476d168017ee7ce59&taste=1&supportDLTaste=0&mode=1&tr=manual&s=b7652bb16c10b064a1a99be969fc1251
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-0530b427990f20056761a093f8bc4dff/component-ota/26/08/24/7df4c2660a1e4e85a8932283e4436212.html
+最新 OTA 版本: PJD110_11.H.11_3110_202610291230
+版本名称: PJD110_17.0.0.100(CN01)
+Android 版本: Android 17
+ColorOS 版本: PJD110_17.0.0.100(CN01)
+安全补丁: 2026-11-01
+发布时间: 2026/11/10 03:33:12
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=85d6e4cafaaf9a679655f93fb645bda6&p=a6c78fdd3655888830ce8bab4b9764679476f4e8196554f68cb65bbb967e5697e2ed6bdde0293023b86ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=5cbbbce86419f344e019d8cfe8a91e5f&id=6ae336e4350d39017fff28e6&taste=1&supportDLTaste=0&mode=1&tr=manual&s=303d4eff3410a3c208a4cc802951bb6a
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-85d6e4cafaaf9a679655f93fb645bda6/component-ota/26/11/10/7fd0def4dfff4e0e82fd4c438e81ff8f.html
