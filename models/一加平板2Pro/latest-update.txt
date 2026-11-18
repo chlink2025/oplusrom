@@ -1,10 +1,10 @@
-本地更新时间: 2026-09-29 17:16:28
+本地更新时间: 2026-11-18 05:09:29
 查询地区: CN
-最新 OTA 版本: OPD2413_11.C.35_1350_202609120016
-版本名称: OPD2413_16.0.10.600(CN01)
-Android 版本: Android 16
-ColorOS 版本: OPD2413_16.0.10.600(CN01)
-安全补丁: 2026-09-01
-发布时间: 2026/09/29 06:37:52
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=a249db100e2a7415fb27c6d7d354c2a2&p=a6c78fdd375c888b3dced5f9429c65659725f8b04b3454fed3b75aedc02b5895eee9608ee27a3174ba69d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=03fafb7dd2725d9638b3ce6794c185a3&id=6aa7ba3e76d168017ee7ecc0&taste=0&supportDLTaste=0&mode=1&tr=manual&s=563bd1529d2ae7a0bb930f401d7dc71f
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-a249db100e2a7415fb27c6d7d354c2a2/component-ota/26/09/28/46d86d34db374cd1bbd2c4d070368c04.html
+最新 OTA 版本: OPD2413_11.F.33_2330_202611050127
+版本名称: OPD2413_17.0.0.103(CN01)
+Android 版本: Android 17
+ColorOS 版本: OPD2413_17.0.0.103(CN01)
+安全补丁: 2026-10-01
+发布时间: 2026/11/18 02:59:26
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=1e23ba3433d5cab179324d9310310049&p=a6c78fdd3654888a3cce8ea84a97386c9076aee51e6054a583be5bbf93790592b8eb34d2ee7f6171ee3dd3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=99b7c1cd68963b692ae23b5cdefff60d&id=6aebce3b350d39017fff33bf&taste=1&supportDLTaste=0&mode=1&tr=manual&s=900b6cb65d243f15ca124ee8385b54e6
+更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-1e23ba3433d5cab179324d9310310049/component-ota/26/11/18/59baa83c171d481792ea38e15fee3f0c.html
