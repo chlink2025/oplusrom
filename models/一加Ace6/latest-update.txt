@@ -1,10 +1,10 @@
-本地更新时间: 2026-10-15 15:59:31
+本地更新时间: 2026-11-20 04:54:18
 查询地区: CN
-最新 OTA 版本: PLQ110_11.C.14_1140_202610072355
-版本名称: PLQ110_17.0.0.104(CN01)
+最新 OTA 版本: PLQ110_11.C.15_1150_202611052132
+版本名称: PLQ110_17.0.1.200(CN01)
 Android 版本: Android 17
-ColorOS 版本: PLQ110_17.0.0.104(CN01)
-安全补丁: 2026-09-01
-发布时间: 2026/10/15 10:50:58
-ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=7eec151ee89f2e245278fe3902c66340&p=a6c78fdd3655888a31cedffa459a3460c271afe1436654f78db75ab1c77a57c7b8b96addb37c3323ba3ed3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=419b6ab98b92c8afc8b758e30bf230ac&id=6ac699a292ce7c01836a7c2a&taste=1&supportDLTaste=0&mode=1&tr=manual&s=ee359876e6bba89e75b999e37a1181cc
-更新日志链接: https://gauss-compotacostauto-cn.allawnfs.com/remove-7eec151ee89f2e245278fe3902c66340/component-ota/26/10/15/f3a8aa81031344af9368b47180c4c1d8.html
+ColorOS 版本: PLQ110_17.0.1.200(CN01)
+安全补丁: 2026-11-01
+发布时间: 2026/11/20 03:30:06
+ROM 下载链接: https://component-ota-cn.allawntech.com/downloadCheck?c=d8a54526b84094f2a2f2011d1abebdc5&p=a6c78fdd3654888839cedca9109b37679579feb34a3254f58cbb03eac77e509bedbc368db67c6372eb6ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=916182f478a6bb947379194b2a8c87c1&id=6afdc5127d8131017f15aa0e&taste=1&supportDLTaste=0&mode=1&tr=manual&s=99a961d6d18e0bc6c930c480e9ad26c3
+更新日志链接: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d8a54526b84094f2a2f2011d1abebdc5/component-ota/26/11/20/ad85d0765d5c44b4be49b667dad38e39.html
