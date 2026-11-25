@@ -1,10 +1,10 @@
-本地更新时间: 2026-10-08 18:10:22
+本地更新时间: 2026-11-25 20:50:40
 查询地区: EU
-最新 OTA 版本: CPH2769_11.A.52_0520_202609111127
-版本名称: CPH2769_16.0.10.600(EX01)
-Android 版本: Android 16
-ColorOS 版本: CPH2769_16.0.10.600(EX01)
-安全补丁: 2026-09-01
-发布时间: 2026/10/08 12:48:45
-ROM 下载链接: https://component-ota-eu.allawnos.com/downloadCheck?c=f6afb3b5d3db19e40b56ff2ae30867fb&p=c25c9713dabca25f869e34f3396cec4001a78819f28873247c62d2f608c76ed1146cabf13b80846967ff181c2077&d=851ad54c99bfa241d5d076b47975b91b5ae3d60ba797246f7975c5af5dc86d924a61afb32ddb8867&g=3d45c703d4ad56013d4895b5bffb7236&id=6aa759b092ce7c01836a63d8&taste=1&supportDLTaste=0&mode=1&tr=manual&s=2696104f3a21c9d42fe3756fecef9097
-更新日志链接: https://gauss-componentotamanual.allawnofs.com/remove-f6afb3b5d3db19e40b56ff2ae30867fb/component-ota/26/10/08/177c365d535e4416a403a4a1d6cbc99d.html
+最新 OTA 版本: CPH2769_11.C.16_1160_202610211249
+版本名称: CPH2769_17.0.0.106(EX01)
+Android 版本: Android 17
+ColorOS 版本: CPH2769_17.0.0.106(EX01)
+安全补丁: 2026-10-01
+发布时间: 2026/11/25 09:10:23
+ROM 下载链接: https://component-ota-eu.allawnos.com/downloadCheck?c=37d0e07dd9edfa4f54551fa2fbce8238&p=c25c9713dbb5a25c839e61f16961be4c52f08c1ca2df73272b61d2ab50c069d0146dfca43388836c64a5181c2077&d=851ad54c99bfa241d5d076b47975b91b5ae3d60ba797246f7975c5af5dc86d924a61afb32ddb8867&g=644442e5f20b5cc439fec66d399c04c6&id=6b0639b57d8131017f15b3ed&taste=0&supportDLTaste=0&mode=1&tr=manual&s=119ab79a7d43806785d265002a0a44cc
+更新日志链接: https://gauss-componentotamanual.allawnofs.com/remove-37d0e07dd9edfa4f54551fa2fbce8238/component-ota/26/11/25/944f2b330c444e32ac3f0142c2f74e23.html

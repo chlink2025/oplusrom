@@ -1,10 +1,10 @@
-本地更新时间: 2026-10-26 17:54:51
+本地更新时间: 2026-11-25 20:51:12
 查询地区: IN
-最新 OTA 版本: CPH2649_11.H.05_3050_202610210133
-版本名称: CPH2649_17.0.0.102(EX01)
+最新 OTA 版本: CPH2649_11.H.08_3080_202611130253
+版本名称: CPH2649_17.0.1.202(EX01)
 Android 版本: Android 17
-ColorOS 版本: CPH2649_17.0.0.102(EX01)
-安全补丁: 2026-10-01
-发布时间: 2026/10/26 10:46:28
-ROM 下载链接: https://component-ota-in.allawnos.com/downloadCheck?c=fa6766c0d0d95bc386348aedc86c0648&p=a50845bd664f8546c56011416f1b76d42cdd4aa8134744615921deb8f5918f805f0aa2c2c3cbd3fae3064b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=e91e15796d13bc7d41a243f7526dc03d&id=6ad88c577d8131017f1579e5&taste=1&supportDLTaste=0&mode=1&tr=manual&s=4522ddde2cd1bab708fd239f335248d0
-更新日志链接: https://gauss-componentotamanual.allawnofs.com/remove-fa6766c0d0d95bc386348aedc86c0648/component-ota/26/10/26/9c88dab75959489e9cb28b8de4909eba.html
+ColorOS 版本: CPH2649_17.0.1.202(EX01)
+安全补丁: 2026-11-01
+发布时间: 2026/11/25 10:15:51
+ROM 下载链接: https://component-ota-in.allawnos.com/downloadCheck?c=a653d080ec37b05feb7f3d7560d7c3fd&p=a50845bd664e8545c7601e40694c72d72c8a4cfb11414465542184baf492dd845f0ca4c095c9d1afb7084b74ea1d&d=e24e07e22445855b932e52052f52278f209846b9145b1378092d92bda8cc8d925706a085dd9cdfa3&g=04bcf7c8beabf38a015c152851c5f064&id=6afec3d0350d39017fff4df8&taste=1&supportDLTaste=0&mode=1&tr=manual&s=ca225708acc976f2112bb8bd84220a71
+更新日志链接: https://gauss-componentotamanual.allawnofs.com/remove-a653d080ec37b05feb7f3d7560d7c3fd/component-ota/26/11/25/c31c0020403f453282709c4228652a4e.html
